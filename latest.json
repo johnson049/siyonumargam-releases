@@ -1,7 +1,7 @@
 {
   "packageName": "com.example.siyonumargam",
   "versionName": "1.0.1",
-  "versionCode": 3,
+  "versionCode": 4,
   "apkUrl": "https://github.com/johnson049/siyonumargam-releases/releases/download/v1.0.1/siyonu-margam.apk",
   "sha256": "13723ce261fcf2a19ea12ac9d8bc64ade0c44275cf312ca0ef72159467bad7d7",
   "releaseNotes": "First Siyonu Margam release with automatic update checking, APK download, checksum verification, and Android installer support."
