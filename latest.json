@@ -1,8 +1,8 @@
 {
   "packageName": "com.example.siyonumargam",
   "versionName": "1.0.3",
-  "versionCode": 1,
+  "versionCode": 4,
   "apkUrl": "https://github.com/johnson049/siyonumargam-releases/releases/download/v1.0.3/siyonu-margam.apk",
-  "sha256": "1083E965D6EFD61320977D2DDE04063B5C9938C546D49D4BD51568603D8F3DCF",
+  "sha256": "E9AEBBEA45FF5691A39BBB24CDF8EE4320CAEF0B4774A7F1F3D414B51B7778B5",
   "releaseNotes": "Improvement in UI and New Songs Added , Bugs Fixed"
 }
