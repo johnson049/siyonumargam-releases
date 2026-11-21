@@ -1,8 +1,8 @@
 {
   "packageName": "com.example.siyonumargam",
-  "versionName": "1.0.1",
+  "versionName": "1.0.2.4",
   "versionCode": 4,
-  "apkUrl": "https://github.com/johnson049/siyonumargam-releases/releases/download/v1.0.1/siyonu-margam.apk",
-  "sha256": "9FEC496DE69BCCBEF930FFBFAEC5A5C309BCB668640B8FB791C9EB4EF6304175",
-  "releaseNotes": "First Siyonu Margam release with automatic update checking, APK download, checksum verification, and Android installer support."
+  "apkUrl": "https://github.com/johnson049/siyonumargam-releases/releases/download/v1.0.2.4/siyonu-margam.apk",
+  "sha256": "FB8302125E6D39C78F9F69CB620E18EC51D11A474EB36101A2B05D7783DD0817",
+  "releaseNotes": "Improvement in UI and New Songs Added"
 }
